@@ -1,6 +1,8 @@
 Tika2Fits
 =========
 
+[![Build Status](https://travis-ci.org/willp-bl/tika2fits.png)](https://travis-ci.org/willp-bl/tika2fits)
+
 Tika2Fits is an attempt to reuse the metadata normalisation code from [Fits](https://github.com/harvard-lts/fits), enabling Tika characterisation output to be used wherever Fits output can be consumed.  Tika2Fits can normalise Tika output into Fits-compatible output but the project is currently experimental and not at all tested!  Saying that, three test files have been loaded into [c3po](https://github.com/openplanets/c3po).
 
 An aim is to leave as much of the Fits code unmodified as possible.
